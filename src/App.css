@@ -67,3 +67,11 @@ p,a{
     display: flex;
     justify-content: space-between;
 }
+.datas{
+    background-color: rgb(240, 239, 239);
+    color: black;
+    margin-bottom: 20px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+}
