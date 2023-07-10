@@ -21,7 +21,7 @@ const UserDetails = () => {
                 <div className="admin-subtitel">List of user Details</div>
                 <button className='btn add-btn' onClick={()=>addNewUser(fakeUserData())}>Add New Users</button>
             </div>
-            <ul className='list'>
+            <ul >
                 <DisplayUsers/>
             </ul>
             <hr />

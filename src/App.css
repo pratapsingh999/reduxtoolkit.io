@@ -64,4 +64,6 @@ p,a{
 .delete-btn{
     background-color: transparent;
     border: none;
+    display: flex;
+    justify-content: space-between;
 }

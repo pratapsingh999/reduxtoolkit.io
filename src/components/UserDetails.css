@@ -9,13 +9,8 @@
     justify-content: space-between;
     font-size: 3.2rem;
 }
-.list{
+.content ul{
     list-style-type: none !important;
-    /* display: flex; */
     flex-direction: column;
-    margin-left: 50px;
-    /* justify-content: space-between; */
-}
-h3{
-    margin: 100px;
-}
+    /* box-shadow: rgba(0,0,0,0.05) 0px 6px 24px 0px, rgba(0,0,0,0.08) 0px 0px 0px 1px; */
+} 
