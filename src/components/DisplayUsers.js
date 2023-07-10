@@ -26,6 +26,7 @@ function DisplayUsers() {
     data.map((user,id)=>{
    return <li key={id} className='datas'>
           {user}
+          
    <button className='delete-btn' onClick={() => deteleUser(id)}>
     <AiTwotoneDelete className="delete-icon"/>
    </button>
