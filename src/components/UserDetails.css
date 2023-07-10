@@ -1,0 +1,21 @@
+.admin-table{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 4rem 0;
+}
+.admin-subtitle{
+    display: flex;
+    justify-content: space-between;
+    font-size: 3.2rem;
+}
+.list{
+    list-style-type: none !important;
+    /* display: flex; */
+    flex-direction: column;
+    margin-left: 50px;
+    /* justify-content: space-between; */
+}
+h3{
+    margin: 100px;
+}
